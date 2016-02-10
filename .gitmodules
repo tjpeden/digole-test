@@ -1,0 +1,3 @@
+[submodule "DigoleGeo"]
+	path = DigoleGeo
+	url = git@github.com:pkourany/DigoleGeo.git
